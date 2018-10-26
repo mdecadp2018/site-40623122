@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/</loc>
-<lastmod>2018-10-26T11:00:57-00:00</lastmod>
+<lastmod>2018-10-26T11:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/archives.html</loc>
-<lastmod>2018-10-26T11:00:57-00:00</lastmod>
+<lastmod>2018-10-26T11:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/tags.html</loc>
-<lastmod>2018-10-26T11:00:57-00:00</lastmod>
+<lastmod>2018-10-26T11:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/categories.html</loc>
-<lastmod>2018-10-26T11:00:57-00:00</lastmod>
+<lastmod>2018-10-26T11:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/pages/about/</loc>
 <lastmod>2018-09-14T10:53:58+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://mdecadp2018.github.io/site-40623122/blog/2018-Blog7.html</loc>
+<lastmod>2018-10-26T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/category/mis.html</loc>
-<lastmod>2018-10-19T11:00:00+08:06</lastmod>
+<lastmod>2018-10-26T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -83,6 +90,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/category/misc.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://mdecadp2018.github.io/site-40623122/blog/tag/2018101926.html</loc>
+<lastmod>2018-10-26T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -124,7 +138,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623122/blog/author/40623122.html</loc>
-<lastmod>2018-10-19T11:00:00+08:06</lastmod>
+<lastmod>2018-10-26T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
