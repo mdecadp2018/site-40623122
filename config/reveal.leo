@@ -24,10 +24,16 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181108224341.1" a="E"><vh>上課內容</vh>
+<v t="leo.20181108224341.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108225301.1" a="E"><vh>Onshape</vh>
+<v t="leo.20181108225301.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -132,10 +138,16 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623122](https://github.com/40623122?tab=repositories)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[倉儲](https://github.com/mdecadp2018/site-40623122)
+&lt;br&gt;
+
+[網站](https://mdecadp2018.github.io/site-40623122/content/index.html)
+&lt;br&gt;
+
+[部落格](https://mdecadp2018.github.io/site-40623122/blog/index.html)
 
 
 </t>
@@ -347,6 +359,29 @@ make.start()
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
+</t>
+<t tx="leo.20181108224341.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108224341.2"># [上課內容及心得](https://mdecadp2018.github.io/site-40623122/blog/index.html)</t>
+<t tx="leo.20181108225301.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225301.2"># Onshape
+
+[操作影片](https://mdecadp2018.github.io/site-40623122/content/Week1-9.html)
 </t>
 </tnodes>
 </leo_file>
