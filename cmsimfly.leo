@@ -22,21 +22,21 @@
 <v t="leo.20180702145458.1"><vh>@button stop http.server</vh></v>
 </v>
 <v t="leo.20180703102027.1"><vh>@edit README.md</vh></v>
-<v t="amd.20160714225245.2" a="E"><vh>about cmsimfly</vh>
+<v t="amd.20160714225245.2"><vh>about cmsimfly</vh>
 <v t="amd.20160714230137.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20160714230155.1"><vh>@edit LICENSE</vh></v>
-<v t="amd.20160715000709.1" a="E"><vh>註解</vh>
+<v t="amd.20160715000709.1"><vh>註解</vh>
 <v t="amd.20160715211540.1"><vh>處理 url 與 edit</vh></v>
 <v t="amd.20160715213810.1"><vh>必須處理 downloads 與 images 目錄</vh></v>
-<v t="leo.20180625155103.1" a="E"><vh>改為 pybean based</vh>
+<v t="leo.20180625155103.1"><vh>改為 pybean based</vh>
 <v t="leo.20180625155310.1"><vh>資料庫設計</vh></v>
 </v>
-<v t="leo.20180630135634.1" a="E"><vh>新增 generate_pages 功能</vh>
+<v t="leo.20180630135634.1"><vh>新增 generate_pages 功能</vh>
 <v t="leo.20180630211407.1"><vh>必須修改頁面內容</vh></v>
 <v t="leo.20180712144340.1"><vh>改回手動轉靜態網頁</vh></v>
 </v>
 </v>
-<v t="leo.20180701102916.1" a="E"><vh>2018Summer 改版</vh>
+<v t="leo.20180701102916.1"><vh>2018Summer 改版</vh>
 <v t="leo.20180702104314.1"><vh>整合設定檔案</vh></v>
 <v t="leo.20180701205822.1"><vh>editorhead 修改</vh></v>
 <v t="leo.20180701212101.1"><vh>有關 Cango library</vh></v>
@@ -53,18 +53,18 @@
 <v t="leo.20180625155248.1"><vh>@edit pybean.py</vh></v>
 <v t="leo.20180625155728.1"><vh>@edit schema.sql</vh></v>
 <v t="amd.20160718130611.1"><vh>@edit .gitignore</vh></v>
-<v t="amd.20160717222221.1"><vh>@path static</vh>
+<v t="amd.20160717222221.1" a="E"><vh>@path static</vh>
 <v t="leo.20180718091411.1"><vh>@edit cmsimply.css</vh></v>
 <v t="amd.20160717222242.1"><vh>@edit axuploader.js</vh></v>
 <v t="amd.20160718125932.1"><vh>@edit viewstl.html</vh></v>
 <v t="amd.20160718125943.1"><vh>@edit stlviewer.js</vh></v>
 <v t="amd.20160718212341.1"><vh>@edit jsc3d.js</vh></v>
 </v>
-<v t="amd.20160714230058.1"><vh>@clean wsgi.py</vh>
+<v t="amd.20160714230058.1" a="E"><vh>@clean wsgi.py</vh>
 <v t="amd.20160714230122.1"><vh>wsgi declarations</vh></v>
 </v>
 <v t="amd.20160714230833.1" a="E"><vh>編輯 flaskapp.py</vh>
-<v t="amd.20160714230833.2" a="E"><vh>@clean flaskapp.py</vh>
+<v t="amd.20160714230833.2"><vh>@clean flaskapp.py</vh>
 <v t="amd.20160714230833.3"><vh>&lt;&lt;declarations&gt;&gt;</vh></v>
 <v t="amd.20160714233131.1"><vh>checkLogin</vh></v>
 <v t="amd.20160717235504.1"><vh>delete_file</vh></v>
@@ -131,6 +131,8 @@
 <v t="amd.20160714232232.1"><vh>unique</vh></v>
 </v>
 </v>
+<v t="leo.20190604233109.1"><vh>Found All:2018</vh></v>
+<v t="leo.20190604233254.1"><vh>Found All:back</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20160714225245.2">we are going to use flask to write an simple cms system based upon cmsimply.
@@ -839,7 +841,7 @@ def set_admin_css():
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -883,7 +885,6 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;/confmenu&gt;&lt;/header&gt;
 '''
     return outstring
-
 
 </t>
 <t tx="amd.20160714231944.1">def set_footer():
@@ -1057,7 +1058,7 @@ a.xhfbfile:hover{
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -1107,7 +1108,6 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;/confmenu&gt;&lt;/header&gt;
 '''
     return outstring
-
 
 </t>
 <t tx="amd.20160714232513.1">def isAdmin():
@@ -2382,7 +2382,7 @@ def get_page2(heading, head, edit):
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="./../static/cmsimply.css"&gt;
 ''' + syntaxhighlight2()
 
@@ -2417,7 +2417,6 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;/confmenu&gt;&lt;/header&gt;
 '''
     return outstring
-
 
 </t>
 <t tx="leo.20180630211407.1">圖片的連結必須改為靜態模式, 而非目前的動態模式
@@ -2756,6 +2755,537 @@ bug 180726</t>
     page_list.append(cut)
     return head_list, level_list, page_list
 
+
+</t>
+<t tx="leo.20190604233109.1"># ignore-case, head, body
+--------------------@edit README.md
+body: 網站: https://mdecadp2018.github.io/site-40623122/content/index.html
+
+--------------------改為 pybean based
+body: 2018.06.25 啟動
+
+--------------------改為 pybean based
+body: 2018.07.25 暫時關掉 pybean
+
+--------------------2018Summer 改版
+head: 2018Summer 改版
+
+--------------------set_admin_css
+body: &lt;title&gt;個人網站&lt;/title&gt; \
+
+--------------------set_css
+body: &lt;title&gt;個人網站&lt;/title&gt; \
+
+--------------------set_css2
+body: &lt;title&gt;個人網站&lt;/title&gt; \
+</t>
+<t tx="leo.20190604233254.1"># ignore-case, head, body
+--------------------@data qt-gui-plugin-style-sheet
+body:     background-color: #CAE1FF; /* lightSteelBlue1 */
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     /* background-color:lightpink; */
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     /* background-color: yellow; */
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     background-color: white;
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     background-color: #ffffec; /* Leo's traditional tree color */
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     selection-background-color: lightgrey;
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     background-color: cornsilk;
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     selection-background-color: blue;
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     background-color: #f2fdff;
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     selection-background-color: blue;
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     background-color: #fdf5f5; /* A kind of pink. */
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     selection-background-color: red;
+
+--------------------@data qt-gui-plugin-style-sheet
+body:     background-color: #ffffec;
+
+--------------------@button start wsgi
+body: bpm = g.app.backgroundProcessManager
+
+--------------------@button stop wsgi
+body: bpm = g.app.backgroundProcessManager
+
+--------------------@button start http.server
+body: bpm = g.app.backgroundProcessManager
+
+--------------------@button stop http.server
+body: bpm = g.app.backgroundProcessManager
+
+--------------------editorhead 修改
+body:   toolbar2: 'link image | print preview media | forecolor backcolor emoticons | code sh4tinymce',
+
+--------------------editorhead 修改
+body:   file_picker_callback: function(callback, value, meta) {
+
+--------------------editorhead 修改
+body:   file_picker_callback: function(callback, value, meta) {
+
+--------------------editorhead 修改
+body:         cmsFilePicker(callback, value, meta);
+
+--------------------editorhead 修改
+body: function cmsFilePicker(callback, value, meta) {
+
+--------------------editorhead 修改
+body:             callback(url, objVals);
+
+--------------------editorhead 修改
+body:   toolbar2: 'link image | print preview media | forecolor backcolor emoticons | code sh4tinymce',
+
+--------------------editorhead 修改
+body:   file_picker_callback: function(callback, value, meta) {
+
+--------------------editorhead 修改
+body:   file_picker_callback: function(callback, value, meta) {
+
+--------------------editorhead 修改
+body:         cmsFilePicker(callback, value, meta);
+
+--------------------editorhead 修改
+body: function cmsFilePicker(callback, value, meta) {
+
+--------------------editorhead 修改
+body:             callback(url, objVals);
+
+--------------------@edit cmsimply.css
+body: header{
+
+--------------------@edit cmsimply.css
+body: 	#width: 800px;
+
+--------------------@edit cmsimply.css
+body: 	padding: 5px 10px;
+
+--------------------@edit cmsimply.css
+body: 	border-right: 1px solid #fff;
+
+--------------------@edit cmsimply.css
+body:     margin:0;
+
+--------------------@edit cmsimply.css
+body: 	-o-transition:opacity 0.5s,visibility 0.5s;
+
+--------------------@edit cmsimply.css
+body: 	font:17px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+--------------------@edit cmsimply.css
+body: 	font:17px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+--------------------@edit cmsimply.css
+body: 	border-color:;
+
+--------------------@edit cmsimply.css
+body: }
+
+--------------------@edit cmsimply.css
+body: 	background-color:#333
+
+--------------------@edit cmsimply.css
+body: 	border:none;
+
+--------------------@edit cmsimply.css
+body: 	margin-right:7px;
+
+--------------------@edit cmsimply.css
+body: 	overflow:visible;
+
+--------------------@edit cmsimply.css
+body: 	padding-right:20px;
+
+--------------------@edit cmsimply.css
+body: 	padding-right:12px;
+
+--------------------@edit cmsimply.css
+body: 	background-color:#286C12;
+
+--------------------@edit cmsimply.css
+body: /* ends unordered list menu*/
+
+--------------------@edit axuploader.js
+body: 					var td_n=$('&lt;td class="ax-file-name" title="'+n+'" /&gt;').appendTo(tr).html(n);
+
+--------------------@edit viewstl.html
+body:     &lt;div id="tip" style="display:block; color:#000000; padding:5px; position:absolute; left:10px; top:550px; background-color:#c0c0c0; height:32px; width:250px; border-radius:5px; border:1px solid #000000; font-family:Arial,sans-serif; opacity:0.5;"&gt;
+
+--------------------@edit viewstl.html
+body:     Model Color:&lt;input id="mdlClr" style="margin-right: 50px;" type="color" value="#00ff40" onchange="changeOption('ModelColor',this.value)"&gt;&lt;/input&gt;
+
+--------------------@edit viewstl.html
+body:     Back Color1:&lt;input id="bckClr1" style="margin-right: 50px;" type="color" onchange="changeOption('BackgroundColor1',this.value)"&gt;&lt;/input&gt;
+
+--------------------@edit viewstl.html
+body:     Back Color1:&lt;input id="bckClr1" style="margin-right: 50px;" type="color" onchange="changeOption('BackgroundColor1',this.value)"&gt;&lt;/input&gt;
+
+--------------------@edit viewstl.html
+body:     Back Color2:&lt;input id="bckClr2" type="color" onchange="changeOption('BackgroundColor2',this.value)"&gt;&lt;/input&gt;&lt;br /&gt;
+
+--------------------@edit viewstl.html
+body:         return {ModelColor: mc,
+
+--------------------@edit viewstl.html
+body:                 BackgroundColor1: bc1,
+
+--------------------@edit viewstl.html
+body:         viewer3d.setParameter('ModelColor', opt.ModelColor);
+
+--------------------@edit viewstl.html
+body:         viewer3d.setParameter('ModelColor', opt.ModelColor);
+
+--------------------@edit viewstl.html
+body:         viewer3d.setParameter('BackgroundColor1', opt.BackgroundColor1);
+
+--------------------@edit viewstl.html
+body:         viewer3d.setParameter('BackgroundColor1', opt.BackgroundColor1);
+
+--------------------@edit stlviewer.js
+body: 	viewer.setParameter('BackgroundColor1', '#FFFFFF');
+
+--------------------@edit stlviewer.js
+body: 	viewer.setParameter('BackgroundColor2', '#383840');
+
+--------------------@edit stlviewer.js
+body: 			viewer.setParameter('ModelColor', '#CAA618');
+
+--------------------@edit stlviewer.js
+body: 			viewer.setParameter('BackgroundColor1', '#FFFFFF');
+
+--------------------@edit jsc3d.js
+body: 			ModelColor:			parameters.ModelColor || '#caa618',
+
+--------------------@edit jsc3d.js
+body: 			ModelColor:			parameters.ModelColor || '#caa618',
+
+--------------------@edit jsc3d.js
+body: 			BackgroundColor1:	parameters.BackgroundColor1 || '#ffffff',
+
+--------------------@edit jsc3d.js
+body: 			BackgroundColor1:	parameters.BackgroundColor1 || '#ffffff',
+
+--------------------@edit jsc3d.js
+body: 			BackgroundColor2:	parameters.BackgroundColor2 || '#383840',
+
+--------------------@edit jsc3d.js
+body: 			BackgroundColor2:	parameters.BackgroundColor2 || '#383840',
+
+--------------------@edit jsc3d.js
+body: 			InitRotationY: 0,
+
+--------------------@edit jsc3d.js
+body: 			InitRotationZ: 0,
+
+--------------------@edit jsc3d.js
+body: 			ModelColor: '#caa618',
+
+--------------------@edit jsc3d.js
+body: 	this.isDefaultInputHandlerEnabled = true;
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;CreaseAngle&lt;/b&gt;':			an angle to control the shading smoothness between faces. Two adjacent faces will be shaded with discontinuity at the edge if the angle between their normals exceeds this value. Not used by default;&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;CreaseAngle&lt;/b&gt;':			an angle to control the shading smoothness between faces. Two adjacent faces will be shaded with discontinuity at the edge if the angle between their normals exceeds this value. Not used by default;&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;CreaseAngle&lt;/b&gt;':			an angle to control the shading smoothness between faces. Two adjacent faces will be shaded with discontinuity at the edge if the angle between their normals exceeds this value. Not used by default;&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;ModelColor&lt;/b&gt;':			fallback color for all meshes, default to '#caa618';&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;ModelColor&lt;/b&gt;':			fallback color for all meshes, default to '#caa618';&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;BackgroundColor1&lt;/b&gt;':		color at the top of the background, default to '#ffffff';&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;BackgroundColor2&lt;/b&gt;':		color at the bottom of the background, default to '#383840';&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	this.initRotY = parseFloat(this.params['InitRotationY']);
+
+--------------------@edit jsc3d.js
+body: 	this.modelColor = parseInt('0x' + this.params['ModelColor'].substring(1));
+
+--------------------@edit jsc3d.js
+body: 	this.modelColor = parseInt('0x' + this.params['ModelColor'].substring(1));
+
+--------------------@edit jsc3d.js
+body: 	this.useWebGL = this.params['Renderer'].toLowerCase() == 'webgl';
+
+--------------------@edit jsc3d.js
+body: 	this.useWebGL = this.params['Renderer'].toLowerCase() == 'webgl';
+
+--------------------@edit jsc3d.js
+body: 	this.releaseLocalBuffers = this.params['LocalBuffers'].toLowerCase() == 'release';
+
+--------------------@edit jsc3d.js
+body: 	if(this.useWebGL &amp;&amp; JSC3D.PlatformInfo.supportWebGL &amp;&amp; JSC3D.WebGLRenderBackend) {
+
+--------------------@edit jsc3d.js
+body: 	this.defaultMaterial = new JSC3D.Material;
+
+--------------------@edit jsc3d.js
+body: 		this.colorBuffer = new Array(this.frameWidth * this.frameHeight);
+
+--------------------@edit jsc3d.js
+body: 		this.colorBuffer = new Array(this.frameWidth * this.frameHeight);
+
+--------------------@edit jsc3d.js
+body: 		this.colorBuffer = new Array(this.frameWidth * this.frameHeight);
+
+--------------------@edit jsc3d.js
+body: 		this.bkgColorBuffer = new Array(this.frameWidth * this.frameHeight);
+
+--------------------@edit jsc3d.js
+body: 		this.bkgColorBuffer = new Array(this.frameWidth * this.frameHeight);
+
+--------------------@edit jsc3d.js
+body: 		this.frameHeight = this.canvas.height;
+
+--------------------@edit jsc3d.js
+body: 	 */
+
+--------------------@edit jsc3d.js
+body: 	var newSize = this.frameWidth * this.frameHeight;
+
+--------------------@edit jsc3d.js
+body: 	if(this.colorBuffer.length &lt; newSize)
+
+--------------------@edit jsc3d.js
+body: 		this.colorBuffer = new Array(newSize);
+
+--------------------@edit jsc3d.js
+body: 	if(this.zBuffer.length &lt; newSize)
+
+--------------------@edit jsc3d.js
+body: 		this.zBuffer = new Array(newSize);
+
+--------------------@edit jsc3d.js
+body: 	if(this.selectionBuffer.length &lt; newSize)
+
+--------------------@edit jsc3d.js
+body: 		this.selectionBuffer = new Array(newSize);
+
+--------------------@edit jsc3d.js
+body: 	if(this.bkgColorBuffer.length &lt; newSize)
+
+--------------------@edit jsc3d.js
+body: 	if(this.bkgColorBuffer.length &lt; newSize)
+
+--------------------@edit jsc3d.js
+body: 	@param {String} backgroundImageUrl url string for the background image.
+
+--------------------@edit jsc3d.js
+body: 	@param {String} backgroundImageUrl url string for the background image.
+
+--------------------@edit jsc3d.js
+body: 	'&lt;b&gt;pan&lt;/b&gt;':		mouse will be used to do panning.&lt;br /&gt;
+
+--------------------@edit jsc3d.js
+body: 	@param {Number} clientX client x coordinate on the current page.
+
+--------------------@edit jsc3d.js
+body: 	@param {Number} clientX client x coordinate on the current page.
+
+--------------------@edit jsc3d.js
+body: 		var meshes = this.scene.getChildren();
+
+--------------------@edit jsc3d.js
+body: JSC3D.Viewer.prototype.doUpdate = function() {
+
+--------------------@edit jsc3d.js
+body: 		var color = 'rgb(' + r + ',' + g + ',' + b + ')';
+
+--------------------@edit jsc3d.js
+body: 		var panelY = canvasRect.top + canvasRect.height * 0.38;
+
+--------------------@edit jsc3d.js
+body: 		var panelWidth = canvasRect.width - (panelX - canvasRect.left) * 2;
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel = document.createElement('div');
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.position = 'absolute';
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.position = 'absolute';
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.left   = panelX + 'px';
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.left   = panelX + 'px';
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.width  = panelWidth + 'px';
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.height = panelHeight + 'px';
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.height = panelHeight + 'px';
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.color  = color;
+
+--------------------@edit jsc3d.js
+body: 		this.messagePanel.style.display = 'none';
+
+--------------------@edit jsc3d.js
+body: 	@private
+
+--------------------@edit jsc3d.js
+body: 		var r = (r1 + i * (r2 - r1) / h) &amp; 0xff;
+
+--------------------@edit jsc3d.js
+body: 		var b = (b1 + i * (b2 - b1) / h) &amp; 0xff;
+
+--------------------@edit jsc3d.js
+body: 		var b = (b1 + i * (b2 - b1) / h) &amp; 0xff;
+
+--------------------@edit jsc3d.js
+body: JSC3D.Viewer.prototype.fillBackgroundWithImage = function() {
+
+--------------------@edit jsc3d.js
+body: JSC3D.Viewer.prototype.fillBackgroundWithImage = function() {
+
+--------------------@edit jsc3d.js
+body: 		canvas.height = h;
+
+--------------------@edit jsc3d.js
+body: 		isCanvasClean = true;
+
+--------------------@edit jsc3d.js
+body: 				data[dest + 1] = (color &amp; 0xff00) &gt;&gt; 8;
+
+--------------------@edit jsc3d.js
+body: 			data[dest + 2] = color &amp; 0xff;
+
+--------------------@edit jsc3d.js
+body: 		}
+
+--------------------@edit jsc3d.js
+body: 
+
+--------------------@edit jsc3d.js
+body: 				var mid = 3 - low - high;
+
+--------------------@edit jsc3d.js
+body: 				if(high != low) {
+
+--------------------@edit jsc3d.js
+body: 					dy0 = dy0 != 0 ? dy0 : 1;
+
+--------------------@edit jsc3d.js
+body: 					var zStep0 = (Zs[low] - Zs[high]) / dy0;
+
+--------------------@edit jsc3d.js
+body: 					var n1 = Ns[low] * 255;
+
+--------------------@edit jsc3d.js
+body: 					dy1 = dy1 != 0 ? dy1 : 1;
+
+--------------------@edit jsc3d.js
+body: 					var zStep1 = (Zs[low] - Zs[mid]) / dy1;
+
+--------------------@edit jsc3d.js
+body: 					var x2 = Xs[mid];
+
+--------------------@edit jsc3d.js
+body: 					var thStep1 = (THs[low] - THs[mid]) / dy1;
+
+--------------------@edit jsc3d.js
+body: 					var tv2 = TVs[mid];
+
+--------------------@edit jsc3d.js
+body: 					dy2 = dy2 != 0 ? dy2 : 1;
+
+--------------------@edit jsc3d.js
+body: 					var zStep2 = (Zs[mid] - Zs[high]) / dy2;
+
+--------------------@edit jsc3d.js
+body: 					var thStep1 = (THs[low] - THs[mid]) / dy1;
+
+--------------------@edit jsc3d.js
+body: 					for(var y=Ys[low]; y&gt;Ys[high]; y--) {
+
+--------------------@edit jsc3d.js
+body: 							var xLeft = ~~x0;
+
+--------------------@edit jsc3d.js
+body: 							var thLeft = th0;
+
+--------------------@edit jsc3d.js
+body: 					var tv2 = TVs[mid];
+
+--------------------@edit jsc3d.js
+body: 						if(y &gt;=0 &amp;&amp; y &lt; h) {
+
+--------------------@edit jsc3d.js
+body: 							var thLeft = th0;
+
+--------------------@edit jsc3d.js
+body: 							var xRight, zRight, thRight, tvRight, nRight;
+
+--------------------@edit jsc3d.js
+body: 					var shStep1 = (((NXs[low] - NXs[mid]) / 2) * sdim) / dy1;
+
+--------------------@edit jsc3d.js
+body: 					var sv2 = ((0.5 - NYs[mid] / 2) * sdim) &amp; sbound;
+
+--------------------@edit jsc3d.js
+body: 					dy2 = dy2 != 0 ? dy2 : 1;
+
+--------------------@edit jsc3d.js
+body: 					var zStep2 = (Zs[mid] - Zs[high]) / dy2;
+
+--------------------editorhead (#4)
+body:   toolbar2: 'link image | print preview media | forecolor backcolor emoticons | code sh4tinymce',
+
+--------------------editorhead (#4)
+body:   file_picker_callback: function(callback, value, meta) {
+
+--------------------editorhead (#4)
+body:   file_picker_callback: function(callback, value, meta) {
+
+--------------------editorhead (#4)
+body:         cmsFilePicker(callback, value, meta);
+
+--------------------editorhead (#4)
+body: function cmsFilePicker(callback, value, meta) {
+
+--------------------editorhead (#4)
+body:             callback(url, objVals);
+
+--------------------imageselect_access_list
+body:     background-color: #ddd;
+
+--------------------imageselect_access_list
+body:     background-color: #ccc;
+
+--------------------ssavePage
+body:     # if head[int(page_order)] still existed and equal original_head_title, go back to origin edit status, otherwise go to "/"
 
 </t>
 </tnodes>
