@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+/*background: -webkit-gradient(linear, 78% 45%, 0% 0%, from(#484948), to(#C4C4C3));*/
   padding: 20px;
 }
 confmenu
@@ -188,9 +188,10 @@ ul#css3menu1 li.topmenu:hover>a,ul#css3menu1 li.topmenu a.pressed{
 
 section {
 /* position is static by default */
+background-color: rgba(255,255,255,0.6);
 line-height: 180%;
 margin-left: 200px;
-width: 600px;
+width: 800px;
 }
 footer {
 position: fixed;
@@ -201,6 +202,8 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image: url(/images/back.jpg);
+  background-size: cover;
   margin-bottom: 120px;
 }
 
