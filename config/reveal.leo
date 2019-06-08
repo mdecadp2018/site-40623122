@@ -21,8 +21,11 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190608231041.1" a="E"><vh>w11</vh>
+<v t="leo.20190608231041.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181108224341.1" a="E"><vh>上課內容</vh>
 <v t="leo.20181108224341.2"><vh>投影片快捷鍵</vh></v>
@@ -30,7 +33,7 @@
 <v t="leo.20181108225301.1" a="E"><vh>Onshape</vh>
 <v t="leo.20181108225301.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -369,7 +372,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108224341.2"># [上課內容及心得](https://mdecadp2018.github.io/site-40623122/blog/index.html)</t>
+<t tx="leo.20181108224341.2"># [上課內容及心得](https://mdecadp2018.github.io/site-40623122/blog/index.html)
+
+</t>
 <t tx="leo.20181108225301.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -380,6 +385,19 @@ make.start()
 						
 </t>
 <t tx="leo.20181108225301.2"># Onshape
+
+[操作影片](https://mdecadp2018.github.io/site-40623122/content/Week1-9.html)
+</t>
+<t tx="leo.20190608231041.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190608231041.2"># Onshape
 
 [操作影片](https://mdecadp2018.github.io/site-40623122/content/Week1-9.html)
 </t>
