@@ -21,22 +21,89 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20190609201828.1"><vh>2019</vh>
+<v t="leo.20190609201828.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190608231041.1" a="E"><vh>w11</vh>
+<v t="leo.20190609203623.1"><vh>大綱</vh>
+<v t="leo.20190609203623.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190609203625.1"><vh>L1</vh>
+<v t="leo.20190609203625.2"><vh>手足球雙人對打</vh></v>
+</v>
+<v t="leo.20190609203628.1"><vh>L2</vh>
+<v t="leo.20190609203628.2"><vh>Vrep模擬</vh></v>
+</v>
+<v t="leo.20190609213818.1"><vh>L3</vh>
+<v t="leo.20190609213818.2" a="E"><vh>往下</vh>
+<v t="leo.20190609213818.3"><vh>Onshape</vh></v>
+</v>
+<v t="leo.20190609213818.4" a="E"><vh>往下</vh>
+<v t="leo.20190609213818.5"><vh>Onshape edit</vh></v>
+</v>
+<v t="leo.20190609213818.6" a="E"><vh>往下</vh>
+<v t="leo.20190609213818.7"><vh>最初構想</vh></v>
+</v>
+</v>
+<v t="leo.20190609214003.1"><vh>L4</vh>
+<v t="leo.20190609214003.2" a="E"><vh>往下</vh>
+<v t="leo.20190609214003.3"><vh>推送紀錄</vh></v>
+</v>
+<v t="leo.20190609214003.4" a="E"><vh>往下</vh>
+<v t="leo.20190609214003.5"><vh>自評</vh></v>
+</v>
+<v t="leo.20190609214003.6"><vh>往下</vh>
+<v t="leo.20190609214003.7"><vh>最初構想</vh></v>
+</v>
+</v>
+<v t="leo.20190609215118.1"><vh>L</vh>
+<v t="leo.20190609215118.2" a="E"><vh>往下</vh>
+<v t="leo.20190609215118.3"><vh>week12</vh></v>
+</v>
+<v t="leo.20190609215118.4" a="E"><vh>往下</vh>
+<v t="leo.20190609215118.5"><vh>最初構想</vh></v>
+</v>
+<v t="leo.20190609215118.6" a="E"><vh>往下</vh>
+<v t="leo.20190609215118.7"><vh>最初構想</vh></v>
+</v>
+</v>
+<v t="leo.20190609215122.1"><vh>L</vh>
+<v t="leo.20190609215122.2" a="E"><vh>往下</vh>
+<v t="leo.20190609215122.3"><vh>week12</vh></v>
+</v>
+<v t="leo.20190609215122.4" a="E"><vh>往下</vh>
+<v t="leo.20190609215122.5"><vh>最初構想</vh></v>
+</v>
+<v t="leo.20190609215122.6" a="E"><vh>往下</vh>
+<v t="leo.20190609215122.7"><vh>最初構想</vh></v>
+</v>
+</v>
+<v t="leo.20190609215120.1"><vh>L</vh>
+<v t="leo.20190609215120.2" a="E"><vh>往下</vh>
+<v t="leo.20190609215120.3"><vh>week12</vh></v>
+</v>
+<v t="leo.20190609215120.4" a="E"><vh>往下</vh>
+<v t="leo.20190609215120.5"><vh>最初構想</vh></v>
+</v>
+<v t="leo.20190609215120.6" a="E"><vh>往下</vh>
+<v t="leo.20190609215120.7"><vh>最初構想</vh></v>
+</v>
+</v>
+<v t="leo.20190609204106.1"><vh>2018</vh>
+<v t="leo.20190609204106.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190608231041.1"><vh>w11</vh>
 <v t="leo.20190608231041.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181108224341.1" a="E"><vh>上課內容</vh>
+<v t="leo.20181108224341.1"><vh>上課內容</vh>
 <v t="leo.20181108224341.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181108225301.1" a="E"><vh>Onshape</vh>
+<v t="leo.20181108225301.1"><vh>Onshape</vh>
 <v t="leo.20181108225301.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -136,24 +203,6 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018 網際簡報 40623122
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40623122](https://github.com/40623122?tab=repositories)
-&lt;/small&gt;
-
-[倉儲](https://github.com/mdecadp2018/site-40623122)
-&lt;br&gt;
-
-[網站](https://mdecadp2018.github.io/site-40623122/content/index.html)
-&lt;br&gt;
-
-[部落格](https://mdecadp2018.github.io/site-40623122/blog/index.html)
-
-
-</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -335,15 +384,6 @@ make.start()
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180914113735.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -374,6 +414,10 @@ make.start()
 </t>
 <t tx="leo.20181108224341.2"># [上課內容及心得](https://mdecadp2018.github.io/site-40623122/blog/index.html)
 
+
+&lt;img src="../images/球桌.png"  width="400px"&gt;
+
+
 </t>
 <t tx="leo.20181108225301.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -387,6 +431,11 @@ make.start()
 <t tx="leo.20181108225301.2"># Onshape
 
 [操作影片](https://mdecadp2018.github.io/site-40623122/content/Week1-9.html)
+
+## 使用 iframe 導入影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4Q5rvzpGOU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 <t tx="leo.20190608231041.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -400,6 +449,363 @@ make.start()
 <t tx="leo.20190608231041.2"># Onshape
 
 [操作影片](https://mdecadp2018.github.io/site-40623122/content/Week1-9.html)
+</t>
+<t tx="leo.20190609201828.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609201828.2">## 2019 SPRING 投影片
+
+### 虎科大機械設計工程系
+#### 協同產品設計實習期末投影片
+
+&lt;small&gt;
+Created by [40623122](https://github.com/40623122?tab=repositories)
+&lt;/small&gt;
+
+
+
+[小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/%E5%A6%82%E4%BD%95%E9%96%8B%E5%A7%8B%E7%B7%A8%E8%BC%AF%E5%A0%B1%E5%91%8A%E6%9B%B8.html)
+&lt;br&gt;
+
+
+
+
+</t>
+<t tx="leo.20190609203623.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609203623.2">## 大綱
+
+* 手足球系統功能
+* Vrep模擬
+* Onshape
+* 倉儲推送紀錄
+* 在小組貢獻
+* 自評</t>
+<t tx="leo.20190609203625.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609203625.2">## [手足球雙人對打](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/%E6%89%8B%E8%B6%B3%E7%90%83%E9%9B%99%E4%BA%BA%E5%B0%8D%E6%89%93.html)
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/X2DEs2qj9XI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+</t>
+<t tx="leo.20190609203628.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609203628.2">### Vrep模擬
+
+解決組員在Vrep中遇到的困難 
+
+處理物件與物件碰撞問題
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6MRDRattAhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+</t>
+<t tx="leo.20190609204106.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609204106.2">## 2019 SPRING 投影片
+
+### 虎科大機械設計工程系
+#### 協同產品設計實習期末投影片
+
+&lt;small&gt;
+Created by [40623122](https://github.com/40623122?tab=repositories)
+&lt;/small&gt;
+
+
+
+[小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/%E5%A6%82%E4%BD%95%E9%96%8B%E5%A7%8B%E7%B7%A8%E8%BC%AF%E5%A0%B1%E5%91%8A%E6%9B%B8.html)
+&lt;br&gt;
+
+
+
+
+</t>
+<t tx="leo.20190609213818.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609213818.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609213818.3">### Onshape
+
+
+由於模擬時發現球會機率性卡在軌道上及軌道過高
+
+所以修改了軌道內的圓角及角度
+
+並提出問題進行修改
+
+
+
+
+
+
+&lt;img src="../images/m1.png"  width="400px"&gt;&lt;img src="../images/m2.png"  width="400px"&gt;
+
+</t>
+<t tx="leo.20190609213818.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609213818.5">### 修改後
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sEMr1-DJwnc?start=864" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609213818.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609213818.7">
+</t>
+<t tx="leo.20190609214003.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609214003.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609214003.3">### 倉儲推送紀錄
+
+
+#### [cd2019a-task1-2019cda_t1_g1](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/graphs/contributors)
+
+
+
+
+</t>
+<t tx="leo.20190609214003.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609214003.5">### 自評
+
+學員出席(20%):  20分
+
+Github 倉儲管理(20%): 14分
+
+Onshape 協同操作(20%): 10分
+
+V-rep 模擬(20%): 20分
+
+程式開發(20%) : 8分
+
+總分: 72 分</t>
+<t tx="leo.20190609214003.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609214003.7"></t>
+<t tx="leo.20190609215118.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215118.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215118.3">
+
+</t>
+<t tx="leo.20190609215118.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215118.5"></t>
+<t tx="leo.20190609215118.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215118.7">
+</t>
+<t tx="leo.20190609215120.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215120.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215120.3"></t>
+<t tx="leo.20190609215120.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215120.5"></t>
+<t tx="leo.20190609215120.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215120.7">
+</t>
+<t tx="leo.20190609215122.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215122.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215122.3"></t>
+<t tx="leo.20190609215122.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215122.5"></t>
+<t tx="leo.20190609215122.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609215122.7">
 </t>
 </tnodes>
 </leo_file>
