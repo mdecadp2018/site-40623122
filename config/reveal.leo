@@ -492,7 +492,6 @@ Created by [40623122](https://github.com/40623122?tab=repositories)
 * Vrep模擬
 * Onshape
 * 倉儲推送紀錄
-* 在小組貢獻
 * 自評</t>
 <t tx="leo.20190609203625.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
