@@ -27,13 +27,21 @@
 <v t="leo.20190609203623.1"><vh>大綱</vh>
 <v t="leo.20190609203623.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190609203625.1"><vh>L1</vh>
-<v t="leo.20190609203625.2"><vh>手足球雙人對打</vh></v>
+<v t="leo.20190610084217.1" a="E"><vh>L1</vh>
+<v t="leo.20190610084217.2" a="E"><vh>往下</vh>
+<v t="leo.20190610084217.3"><vh>week12</vh></v>
 </v>
-<v t="leo.20190609203628.1"><vh>L2</vh>
+<v t="leo.20190610084217.4" a="E"><vh>往下</vh>
+<v t="leo.20190610084217.5"><vh>最初構想</vh></v>
+</v>
+<v t="leo.20190610084217.6" a="E"><vh>往下</vh>
+<v t="leo.20190610084217.7"><vh>最初構想</vh></v>
+</v>
+</v>
+<v t="leo.20190609203628.1" a="E"><vh>L2</vh>
 <v t="leo.20190609203628.2"><vh>Vrep模擬</vh></v>
 </v>
-<v t="leo.20190609213818.1"><vh>L3</vh>
+<v t="leo.20190609213818.1" a="E"><vh>L3</vh>
 <v t="leo.20190609213818.2" a="E"><vh>往下</vh>
 <v t="leo.20190609213818.3"><vh>Onshape</vh></v>
 </v>
@@ -492,25 +500,7 @@ Created by [40623122](https://github.com/40623122?tab=repositories)
 * Vrep模擬
 * Onshape
 * 倉儲推送紀錄
-* 自評</t>
-<t tx="leo.20190609203625.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190609203625.2">## [手足球雙人對打](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/%E6%89%8B%E8%B6%B3%E7%90%83%E9%9B%99%E4%BA%BA%E5%B0%8D%E6%89%93.html)
-
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/X2DEs2qj9XI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-
-
-
-
+* 自評
 
 </t>
 <t tx="leo.20190609203628.1">&lt;section data-markdown&gt;
@@ -600,6 +590,7 @@ Created by [40623122](https://github.com/40623122?tab=repositories)
     &lt;script type="text/template"&gt;
 @others
 
+
     &lt;/script&gt;
 &lt;/section&gt;
 
@@ -608,7 +599,8 @@ Created by [40623122](https://github.com/40623122?tab=repositories)
 </t>
 <t tx="leo.20190609213818.5">### 修改後
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sEMr1-DJwnc?start=864" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sEMr1-DJwnc?start=864" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20190609213818.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -669,7 +661,9 @@ V-rep 模擬(20%): 20分
 
 程式開發(20%) : 8分
 
-總分: 72 分</t>
+總分: 72 分
+
+</t>
 <t tx="leo.20190609214003.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -805,6 +799,59 @@ V-rep 模擬(20%): 20分
 						
 </t>
 <t tx="leo.20190609215122.7">
+</t>
+<t tx="leo.20190610084217.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610084217.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610084217.3">## [手足球雙人對打](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/%E6%89%8B%E8%B6%B3%E7%90%83%E9%9B%99%E4%BA%BA%E5%B0%8D%E6%89%93.html)
+
+### [程式碼](https://mdecadp2018.github.io/site-40623122/content/%E6%89%8B%E8%B6%B3%E7%90%83%E9%9B%99%E4%BA%BA%E5%B0%8D%E6%89%93%E6%B8%AC%E8%A9%A6.html)
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/X2DEs2qj9XI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+</t>
+<t tx="leo.20190610084217.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610084217.5"></t>
+<t tx="leo.20190610084217.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610084217.7">
 </t>
 </tnodes>
 </leo_file>
