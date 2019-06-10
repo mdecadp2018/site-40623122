@@ -27,7 +27,7 @@
 <v t="leo.20190609203623.1"><vh>大綱</vh>
 <v t="leo.20190609203623.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190610084217.1" a="E"><vh>L1</vh>
+<v t="leo.20190610084217.1"><vh>L1</vh>
 <v t="leo.20190610084217.2" a="E"><vh>往下</vh>
 <v t="leo.20190610084217.3"><vh>week12</vh></v>
 </v>
@@ -52,7 +52,7 @@
 <v t="leo.20190609213818.7"><vh>最初構想</vh></v>
 </v>
 </v>
-<v t="leo.20190609214003.1"><vh>L4</vh>
+<v t="leo.20190609214003.1" a="E"><vh>L4</vh>
 <v t="leo.20190609214003.2" a="E"><vh>往下</vh>
 <v t="leo.20190609214003.3"><vh>推送紀錄</vh></v>
 </v>
@@ -516,7 +516,7 @@ Created by [40623122](https://github.com/40623122?tab=repositories)
 
 解決組員在Vrep中遇到的困難 
 
-處理物件與物件碰撞問題
+[處理物件與物件碰撞問題](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/vrep%20respondable%20mask.html)
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6MRDRattAhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
